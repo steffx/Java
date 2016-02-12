@@ -1,3 +1,4 @@
+//The guessing game
 import java.util.Scanner; 
 public class HiLow {
 
