@@ -1,3 +1,4 @@
+// Read 10 names and after each name greet the person > Hello Ben ! :)
 import java.util.*;
 public class ReadingNamesHelloName {
 
